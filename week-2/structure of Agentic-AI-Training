@@ -1,0 +1,23 @@
+###abcd-agentic-training-vnr-sindhu/
+│
+├── week-1/
+│
+├── week-2/
+│   ├── README.md
+│   ├── agent-design.md
+│   ├── agent-workflow-diagram.md
+│   ├── simple_agent.py
+│   └── example-run.md
+│
+├── references/
+├── use-cases/
+└── projects/
+
+
+mkdir week-2
+touch week-2/README.md
+touch week-2/agent-design.md
+touch week-2/agent-workflow-diagram.md
+touch week-2/simple_agent.py
+touch week-2/example-run.md
+
