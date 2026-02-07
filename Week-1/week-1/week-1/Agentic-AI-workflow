@@ -1,0 +1,34 @@
+### Agentic AI Workflow:
+
+An agentic AI workflow defines how an autonomous agent operates from
+goal initialization to task completion.
+
+## Typical Agentic AI Workflow:
+
+1. Goal Definition  
+   - User provides a high-level goal
+
+2. Task Planning  
+   - Agent breaks the goal into smaller tasks
+
+3. Reasoning and Decision Making  
+   - Agent decides the next best action
+
+4. Tool Usage  
+   - Agent uses APIs, databases, or external tools
+
+5. Execution  
+   - Agent performs the selected action
+
+6. Feedback Loop  
+   - Agent evaluates results and adjusts its plan
+
+7. Completion  
+   - Goal is achieved or terminated
+
+## Example
+Goal: "Research latest AI trends"
+
+- Search web
+- Summarize articles
+- Compile structured report
